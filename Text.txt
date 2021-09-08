@@ -1,0 +1,7 @@
+Islamabad Sydney 1/12/2019 11:00 18:00 5000 Emirates
+Islamabad Amsterdam 1/12/1000 01:00 01:00 46000 Emirates
+Islamabad Neyyork 1/12/1000 01:00 01:00 50000 Emirates
+Berlin Amsterdam 1/12/2019 11:00 18:00 5000 Emirates
+Amsterdam Islamabad 1/12/1000 01:00 01:00 50000 Emirates
+Amsterdam Sydney 1/12/1000 01:00 01:00 100000 Emirates
+Newyork Sydney 1/12/1000 01:00 01:00 125000 Emirates
